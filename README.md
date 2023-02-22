@@ -6,6 +6,5 @@ Specifically, the data analysis methods published in this repository includes De
 *NOTE: Codes and results from  "DT_LR".ipynb file are not used in the project (which was done by my groupmate using R), this is an experimental attempt using Python by me.*
 
 The following image is the project poster that summarises our project work:
-![image](https://user-images.githubusercontent.com/43470271/206893401-c6891b6d-cda8-42d8-a414-3f9e126918ab.png)
-
+![image](https://user-images.githubusercontent.com/43470271/220506835-70d694d1-9654-47cc-a9ba-7e8f7879d091.png)
 
